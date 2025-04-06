@@ -1,10 +1,5 @@
-# mi-portafolio
-# 👋 Hola, soy @JeweL (Alfredo Leonardo Tito Marcañaupa)
-
-**Desarrollador Web | Analista de Datos | Apasionado por la tecnología**
-
 💻 **Sobre mí:**
-# Portafolio de [Tu Nombre]
+# Portafolio de Hubert Luque Peralta
 
 ## Introducción
 Soy un ingeniero web apasionado por la creación de soluciones innovadoras y eficientes. Me especializo en el desarrollo de aplicaciones web utilizando tecnologías modernas y en la implementación de prácticas de desarrollo ágil.
