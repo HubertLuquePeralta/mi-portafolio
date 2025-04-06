@@ -2,7 +2,7 @@
 # Portafolio de Hubert Luque Peralta
 
 ## Introducción
-Soy un ingeniero web apasionado por la creación de soluciones innovadoras y eficientes. Me especializo en el desarrollo de aplicaciones web utilizando tecnologías modernas y en la implementación de prácticas de desarrollo ágil.
+Soy un estudiante de Ingeniero Informática y Sistemas, apasionado por la creación de soluciones innovadoras y eficientes. Me estoy especializando en el desarrollo de aplicaciones web utilizando tecnologías modernas y en la implementación de prácticas de desarrollo ágil.
 
 ## Habilidades Técnicas
 - **Lenguajes de Programación:** HTML, CSS, JavaScript, Python
